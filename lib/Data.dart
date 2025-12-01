@@ -1,0 +1,201 @@
+import 'Prodcuts.dart';
+
+List<Products> Data = [
+  Products(
+    name: 'Ferrari F1 Jacket',
+    imgpath: 'assets/images/F1jacket1.jpg',
+    category: 'All',
+    type: 'Jackets',
+    gender: 'Man',
+  ),
+  Products(
+    name: 'Revvit Riding Jacket ',
+    imgpath: 'assets/images/FJT307_1270MF_WLR.jpg',
+    type: 'Jacket',
+    category: 'All',
+    gender: 'Man',
+  ),
+  Products(
+    name: 'Axor Riding Jacket',
+    imgpath: 'assets/images/jacket4.jpg',
+    type: 'Jacket',
+    category: 'All',
+    gender: 'Man',
+  ),
+  Products(
+    name: 'Viaterra Riding Jacket',
+    imgpath: 'assets/images/71nEE293zsL.jpg',
+    type: 'Jackets',
+    category: 'All',
+    gender: 'Man',
+  ),
+
+  //CAPS
+  Products(
+    name: 'Suburu Japan Cap',
+    imgpath: 'assets/images/capimg/cap1.jpg',
+    type: 'Caps',
+    category: 'All',
+    gender: 'All',
+  ),
+  Products(
+    name: 'Ferrari Black Cap',
+    imgpath: 'assets/images/capimg/cap2.jpg',
+    type: 'Caps',
+    category: 'All',
+    gender: 'All',
+  ),
+  Products(
+    name: 'RedBull Cap',
+    imgpath: 'assets/images/capimg/cap3.jpg',
+    type: 'Caps',
+    category: 'All',
+    gender: 'All',
+  ),
+  Products(
+    name: 'Oracle Racing Cap',
+    imgpath: 'assets/images/capimg/cap4.jpg',
+    type: 'Caps',
+    category: 'All',
+    gender: 'All',
+  ),
+  Products(
+    name: 'Street Cap',
+    imgpath: 'assets/images/capimg/cap5.jpg',
+    type: 'Caps',
+    category: 'All',
+    gender: 'All',
+  ),
+  Products(
+    name: 'Camo Cap',
+    imgpath: 'assets/images/capimg/cap6.jpg',
+    type: 'Caps',
+    category: 'All',
+    gender: 'All',
+  ),
+  Products(
+    name: 'Star Wars Cap',
+    imgpath: 'assets/images/capimg/cap7.jpg',
+    type: 'Caps',
+    category: 'All',
+    gender: 'All',
+  ),
+  Products(
+    name: 'Honda Cap',
+    imgpath: 'assets/images/capimg/cap8.jpg',
+    type: 'Caps',
+    category: 'All',
+    gender: 'All',
+  ),
+
+  //Shirts
+  Products(
+    name: 'Maroon Shirt',
+    imgpath: 'assets/images/Shirts/shirt1.png',
+    type: 'Shirts',
+    category: 'All',
+    gender: 'All',
+  ),
+  Products(
+    name: 'Casual Maroon Overshirt',
+    imgpath: 'assets/images/Shirts/shirt2.png',
+    type: 'Shirts',
+    category: 'All',
+    gender: 'All',
+  ),
+  Products(
+    name: 'Hawaii Shirt',
+    imgpath: 'assets/images/Shirts/shirt3.png',
+    type: 'Shirts',
+    category: 'All',
+    gender: 'All',
+  ),
+  Products(
+    name: 'Camo Green Shirt',
+    imgpath: 'assets/images/Shirts/shirt4.png',
+    type: 'Shirts',
+    category: 'All',
+    gender: 'All',
+  ),
+  Products(
+    name: 'Purple Overshirt',
+    imgpath: 'assets/images/Shirts/shirt5.png',
+    type: 'Shirts',
+    category: 'All',
+    gender: 'All',
+  ),
+  Products(
+    name: 'Yellow Shirt',
+    imgpath: 'assets/images/Shirts/shirt6.png',
+    type: 'Shirts',
+    category: 'All',
+    gender: 'All',
+  ),
+  Products(
+    name: 'Green Shirt',
+    imgpath: 'assets/images/Shirts/shirt7.png',
+    type: 'Shirts',
+    category: 'All',
+    gender: 'All',
+  ),
+  Products(
+    name: 'Vertical Stripes Shirt',
+    imgpath: 'assets/images/Shirts/shirt8.png',
+    type: 'Shirts',
+    category: 'All',
+    gender: 'All',
+  ),
+
+  //Pants
+  Products(
+    name: 'Biege Formal Pant',
+    imgpath: 'assets/images/Pants/pant1.png',
+    type: 'Pants',
+    category: 'All',
+    gender: 'Man',
+  ),
+  Products(
+    name: 'Black casual trouser',
+    imgpath: 'assets/images/Pants/pant2.png',
+    type: 'Pants',
+    category: 'All',
+    gender: 'Man',
+  ),
+  Products(
+    name: 'Green Formal Pant',
+    imgpath: 'assets/images/Pants/pant3.png',
+    type: 'Pants',
+    category: 'All',
+    gender: 'Man',
+  ),
+  Products(
+    name: 'Grey Formal pant',
+    imgpath: 'assets/images/Pants/pant4.png',
+    type: 'Pants',
+    category: 'All',
+    gender: 'Man',
+  ),
+  Products(
+    name: 'Brown Cargo Pant',
+    imgpath: 'assets/images/Pants/pant5.png',
+    type: 'Pants',
+    category: 'All',
+    gender: 'Man',
+  ),
+  Products(
+    name: 'Black Formal Pant',
+    imgpath: 'assets/images/Pants/pant6.png',
+    type: 'Pants',
+    category: 'All',
+    gender: 'Man',
+  ),
+];
+
+//type: shirts
+
+//"All",
+//     "Newest",
+//     "Popular",
+//     " Man",
+//     "Woman",
+//     "Children",
