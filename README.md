@@ -1,16 +1,26 @@
-# prac2
+ECommerce Flutter App
 
-A new Flutter project.
+A simple and clean Flutter-based eCommerce UI showcasing product listings, navigation, and product detail pages.
+Built as a practice project to strengthen Flutter, Dart, and UI development skills.
 
-## Getting Started
+🚀 Features
 
-This project is a starting point for a Flutter application.
+Product list screen
 
-A few resources to get you started if this is your first Flutter project:
+Product detail screen
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Clean UI components
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Basic navigation
+
+Organized data models
+
+📦 Tech Stack
+
+Flutter
+
+Dart
+
+📌 Status
+
+This project is currently in learning/development stage and will be improved over time.
