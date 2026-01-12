@@ -25,4 +25,7 @@ Dart
 
 This project is currently in learning/development stage and will be improved over time.
 
-<img width="629" height="1125" alt="image" src="https://github.com/user-attachments/assets/711cc841-a8ac-4451-ab8b-8298f04ffcdf" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/711cc841-a8ac-4451-ab8b-8298f04ffcdf"
+       width="300" />
+</p>
